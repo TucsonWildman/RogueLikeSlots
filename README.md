@@ -88,3 +88,6 @@ Times Played of all game modes.
    This is done before "Main".
 1. Process the arguments from the user and act accordingly.
 1. Save the data for a later run.
+
+# Compatibility
+Written for Anaconda Python 3.9 with Pandas 1.3.4
